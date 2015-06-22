@@ -1,6 +1,6 @@
 {
   "name": "backbone.wreqr",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "homepage": "https://github.com/marionettejs/backbone.wreqr",
   "authors": [
     "Derick Bailey"
@@ -36,6 +36,14 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "public",
+    "specs",
+    ".gitignore",
+    ".jshintrc",
+    ".travis.yml",
+    "Gruntfile.js",
+    "component.json",
+    "package.json"
   ]
 }
